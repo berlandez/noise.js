@@ -1,0 +1,15 @@
+{
+  "name": "noise.js",
+  "repository" : {
+    "type" : "git",
+    "url" : "http://github.com/Picturelife/noise.js.git"
+  },
+  "version": "0.0.1",
+  "description": "makes noise",
+  "dependencies": {
+    "express": "3.x",
+    "canvas": "*",
+    "Faker": "*",
+    "underscore": "*"
+  }
+}
